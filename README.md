@@ -1,1 +1,25 @@
-# Albatros-Kurs-Yonetim-Sistemi-.Net-Core-React-React-Native
+Albatros için geliştirilen bu proje, yönetim paneli, rol bazlı arayüzlerle merkezi veri yönetimi, finansal işlem takibi, rol tabanlı erişim, otomatik bildirim ve denetim sistemleri sunan kapsamlı  web uygulamasıdır.
+
+
+![IMG-20251007-WA0027](https://github.com/user-attachments/assets/a0947782-c1ac-4787-8aa2-58d3396c46c1)
+![IMG-20251007-WA0028](https://github.com/user-attachments/assets/b8d63904-b426-472c-aa64-431b06fd6244)
+![IMG-20251007-WA0031](https://github.com/user-attachments/assets/110cc954-c905-4e5c-a0ca-0c2553b7106c)
+![IMG-20251007-WA0030](https://github.com/user-attachments/assets/9de29183-1776-4d55-8435-f9db01ffa3fb)
+![IMG-20251007-WA0029](https://github.com/user-attachments/assets/adcc3a31-fc47-4e88-9fc5-64ad4c345701)
+![IMG-20251007-WA0022](https://github.com/user-attachments/assets/4b53a15a-2df5-4f6f-8173-afecda40d0c9)
+![IMG-20251007-WA0026](https://github.com/user-attachments/assets/50540099-8def-4bcc-b63b-5b3ecc4fd5bc)
+![IMG-20251007-WA0025](https://github.com/user-attachments/assets/60d55eeb-d6e5-4243-888e-f71c1ba4baad)
+![IMG-20251007-WA0024](https://github.com/user-attachments/assets/e7a87d55-1ca7-4699-a2f0-7f4435fec392)
+![IMG-20251007-WA0023](https://github.com/user-attachments/assets/9a471455-d0e2-4637-923f-f6dc1ce1febb)
+![IMG-20251007-WA0018](https://github.com/user-attachments/assets/9140a7e8-3d5d-40a3-b167-3bf3ac1e173c)
+![IMG-20251007-WA0017](https://github.com/user-attachments/assets/09c8c4ba-d7d0-4612-b7a2-f42e73828509)
+![IMG-20251007-WA0016](https://github.com/user-attachments/assets/f4a70b3d-aba7-40fe-aa22-2a43aa54631c)
+![IMG-20251007-WA0015](https://github.com/user-attachments/assets/aafe3de0-f203-44f5-b694-9c81f54ab711)
+![IMG-20251007-WA0014](https://github.com/user-attachments/assets/5d1bca40-7d91-4c18-ad00-ff4c5eeff126)
+![IMG-20251007-WA0013](https://github.com/user-attachments/assets/dd0c081f-a7d3-46ae-977d-6edc000c95a8)
+![IMG-20251007-WA0012](https://github.com/user-attachments/assets/7726ae9f-29ed-4018-a2a0-1ee452ade1b3)
+![IMG-20251007-WA0011](https://github.com/user-attachments/assets/b925cdd8-7ead-4434-838c-cdbd8dcc7503)
+![IMG-20251007-WA0010](https://github.com/user-attachments/assets/a6383946-6b90-4fbd-bcd1-31bf51d5234e)
+![IMG-20251007-WA0021](https://github.com/user-attachments/assets/ee0bc8c8-3425-4910-80a6-95f271079748)
+![IMG-20251007-WA0020](https://github.com/user-attachments/assets/13ce85eb-0db9-4693-b8f7-0b5c8f823883)
+![IMG-20251007-WA0019](https://github.com/user-attachments/assets/9c0faeaa-95b7-4134-b772-0ef7fe02a0b3)
